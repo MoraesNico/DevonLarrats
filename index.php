@@ -1,5 +1,5 @@
-<?php include "cabecalho.php"; ?>
+<?php include "header.php"; ?>
 
 
 
-<?php include "rodape.php"; ?>
+<?php include "footer.php"; ?>

@@ -1,12 +1,21 @@
+body {
+    background-image: url('back.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 0;
+    padding: 0;
+}
 .header {
     background-color: rgba(7, 71, 27, 0.486);
     padding: 10px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: center;
 }
 .header img {
     height: 50px;
+    margin-right: 20px;
 }
 .nav-links {
     display: flex;
