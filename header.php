@@ -8,7 +8,7 @@
 </head>
 <body>
     <div class="header">
-        <img src="larrat.jpg" alt="Brand">
+        <img src="IMG/back.png" alt="Brand">
         <div class="nav-links">
             <a href="*">Link</a>
             <a href="*">Link</a>
