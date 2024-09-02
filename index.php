@@ -1,7 +1,6 @@
 <?php include "header.php"; ?>
  <link rel="stylesheet" href="style_page.css">
-</head>
-<body>
+
     <div class="container">
         <div class="sidebar">
             <h2>What About US?</h2>
