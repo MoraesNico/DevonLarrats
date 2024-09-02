@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="style_header.css">
 </head>
 <body>
+
     <div class="header">
         <img src="IMG/back.png" alt="Brand">
         <div class="nav-links">
@@ -17,4 +18,7 @@
             <a href="*">Link</a>
         </div>
     </div>
+
+</body>
+</html>
 
